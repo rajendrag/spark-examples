@@ -1,0 +1,14 @@
+# IDE
+**/.idea
+
+**/project/boot
+**/project/target
+**/project/plugins/target
+**/target
+**/.target
+.scannerwork
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
